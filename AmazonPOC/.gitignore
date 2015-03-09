@@ -1,0 +1,14 @@
+/target
+/target/
+/test-output/
+/test-output/*
+/XSLT_Reports/*
+
+*.class
+*.classpath
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
