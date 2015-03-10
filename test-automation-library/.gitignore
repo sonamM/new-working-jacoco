@@ -1,15 +1,15 @@
-/target/
-/logs/
-/test-output/
-/test-output/*
-src/test/resources/devConfig.yml
+#/target/
+#/logs/
+#/test-output/
+#/test-output/*
+#src/test/resources/devConfig.yml
 
 
-*.class
-*.classpath
+#*.class
+#*.classpath
 
 
 # Package Files #
-*.jar
-*.war
-*.ear
+#*.jar
+#*.war
+#*.ear
